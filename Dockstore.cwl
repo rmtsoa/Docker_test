@@ -17,7 +17,7 @@ requirements:
 hints:
   - class: ResourceRequirement
     coresMin: 1
-    ramMin: 1000 inputs:
+    ramMin: 1000 inputs
   fastq:
     type: File
     doc: "FastQ file to be analyzed"
